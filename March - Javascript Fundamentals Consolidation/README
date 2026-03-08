@@ -1,0 +1,123 @@
+# March 2026 — JavaScript Fundamentals Challenge
+
+## Overview
+
+This repository documents my March learning sessions focused on improving **DOM fluency, state control, and code structure**.
+
+The goal this month was not to build flashy projects, but to develop **clean and controlled JavaScript logic**.
+
+---
+
+## Main Objective
+
+By the end of March:
+
+> Build small interactive systems from scratch without copying code.
+
+The emphasis was on **understanding the flow of an application**.
+
+---
+
+## Core Concept: State-Driven UI
+
+Earlier approach:
+
+click → manipulate DOM
+
+Improved approach:
+
+click → update state → render UI
+
+In this model, **state becomes the single source of truth**, and the interface simply reflects that state.
+
+This concept is fundamental in modern frameworks such as React.
+
+---
+
+## Topics Covered
+
+### DOM Control
+
+Practicing direct manipulation of interface elements.
+
+Exercises included:
+
+* buttons changing text or color
+* visibility toggles
+* tab or accordion interfaces
+
+Focus:
+Understanding how events trigger UI changes.
+
+---
+
+### Handling Multiple Elements
+
+Avoiding duplicated logic.
+
+Concepts practiced:
+
+* `querySelectorAll`
+* `forEach`
+* shared event logic
+
+Goal:
+Write cleaner and more maintainable scripts.
+
+---
+
+### State Awareness
+
+Learning to treat variables as the **memory of an application**.
+
+Exercises included:
+
+* counter application
+* toggle systems
+* input validation
+
+Flow practiced:
+
+event → state change → UI update
+
+---
+
+### Simple Application Systems
+
+Built a basic **to-do style system** using an array as the source of truth.
+
+Features included:
+
+* adding items
+* removing items
+* filtering views
+
+Key concept:
+
+The UI should **render from state**, not control the state directly.
+
+---
+
+### Refactoring
+
+A large part of this month focused on improving code quality.
+
+Refactoring steps included:
+
+* renaming variables
+* removing duplicated logic
+* separating event handling and rendering
+
+---
+
+## Key Takeaways
+
+The biggest shift this month was moving from:
+
+"make it work"
+
+to
+
+"make it structured and understandable."
+
+Small applications start to behave like **real systems** when logic, state, and rendering are separated.
