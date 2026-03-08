@@ -1,0 +1,121 @@
+# January 2026 — CSS Layout Mastery
+
+## Overview
+
+This repository documents my January learning sessions focused on **CSS layout fundamentals**.
+
+The goal was simple:
+learn how to build layouts **without guessing spacing or structure**.
+
+Instead of jumping to frameworks, I focused on understanding the core mechanics of CSS layout.
+
+Think of this stage like learning **how bricks stack before building a house**.
+
+---
+
+## Main Objective
+
+By the end of January:
+
+> Build responsive layouts confidently using clean, readable CSS.
+
+---
+
+## Topics Covered
+
+### Box Model
+
+Understanding how spacing actually works.
+
+Concepts practiced:
+
+* margin
+* padding
+* border
+* spacing control
+
+Exercise examples:
+
+* Creating boxes with different spacing
+* Building a simple card layout using margin and padding
+
+---
+
+### Display Types
+
+Learning how elements behave in layout.
+
+Concepts practiced:
+
+* block
+* inline
+* inline-block
+
+Goal:
+Predict layout behavior before refreshing the page.
+
+---
+
+### Flexbox Layout
+
+Understanding alignment and structure.
+
+Concepts practiced:
+
+* main axis vs cross axis
+* flex-direction
+* justify-content
+* align-items
+* gap
+
+Exercises:
+
+* Centering elements
+* Building card layouts
+* Creating navbar or sidebar structures
+
+---
+
+### Responsive Design
+
+Making layouts adapt to different screen sizes.
+
+Concepts practiced:
+
+* mobile-first design
+* media queries
+* responsive text and images
+* fluid sizing with `rem` and `clamp()`
+
+Goal:
+One layout that works across multiple screen sizes.
+
+---
+
+### Mini Project
+
+To consolidate everything learned, I built a **simple responsive landing page**.
+
+Sections included:
+
+* Hero
+* Content area
+* Call-to-action
+
+Focus:
+Applying layout fundamentals in a real page structure.
+
+---
+
+## Key Takeaways
+
+This month helped me understand that **CSS layout is not random**.
+
+Layouts become predictable when you understand:
+
+* the box model
+* display behavior
+* flexbox alignment
+* responsive design
+
+Instead of trial-and-error, I started thinking in **layout systems**.
