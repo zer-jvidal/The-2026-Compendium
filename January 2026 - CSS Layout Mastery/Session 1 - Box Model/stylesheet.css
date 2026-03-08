@@ -1,0 +1,48 @@
+body { /* Used for Reference Only */
+    background-color: f4f4f4;
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Main Goal of this Challenge is differentiating:
+ 1. Padding
+ 2. Margin
+ 3. Border */
+
+.card {
+    background: #47a1b3;
+    padding-left: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 550px;
+    margin-bottom: 20px;
+    margin-right: 550px;
+    border: 10px solid red;
+    border-radius: 10px;
+}
+
+.card2 {
+    background: #beb389;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 550px;
+    margin-bottom: 20px;
+    margin-right: 550px;
+    border: 10px solid blue;
+    border-radius: 10px;
+}
+
+.card3 {
+    background: #fdd79e;
+    padding-left: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 550px;
+    margin-bottom: 20px;
+    margin-right: 550px;
+    border: 10px solid yellow;
+    border-radius: 10px;
+}
+
