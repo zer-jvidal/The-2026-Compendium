@@ -1,0 +1,124 @@
+# February 2026 — JavaScript UI Fundamentals
+
+## Overview
+
+This repository documents my February learning sessions focused on **JavaScript fundamentals and UI interactivity**.
+
+If January was about building the structure of a webpage, February was about **bringing it to life**.
+
+JavaScript acts as the **control system** that allows users to interact with a webpage.
+
+---
+
+## Main Objective
+
+By the end of February:
+
+> Add interactivity to webpages confidently without relying on copied code.
+
+---
+
+## Topics Covered
+
+### JavaScript Basics
+
+Understanding how JavaScript works in the browser.
+
+Concepts practiced:
+
+* variables (`let`, `const`)
+* functions
+* conditions (`if / else`)
+* event listeners
+
+Exercises included:
+
+* logging messages in the console
+* changing page content when clicking a button
+
+---
+
+### DOM Selection
+
+Learning how JavaScript finds and controls elements.
+
+Concepts practiced:
+
+* `querySelector`
+* `querySelectorAll`
+
+Goal:
+Understand how JavaScript connects to HTML elements.
+
+---
+
+### DOM Manipulation
+
+Updating the interface dynamically.
+
+Concepts practiced:
+
+* `classList`
+* `innerText`
+* `innerHTML`
+
+Exercises:
+
+* toggling styles
+* updating content
+* showing or hiding elements
+
+---
+
+### Handling Multiple Elements
+
+Avoiding repetitive code.
+
+Concepts practiced:
+
+* `forEach`
+* applying behavior to multiple elements
+
+Goal:
+Write cleaner, reusable logic instead of copy-pasting.
+
+---
+
+### State Thinking
+
+Learning to use variables as **application memory**.
+
+Example exercises:
+
+* counter system
+* toggle logic
+* simple user interaction tracking
+
+This introduced the concept of **state controlling UI behavior**.
+
+---
+
+### Mini Interactive Project
+
+Built small interactive features such as:
+
+* theme switcher
+* modal popup
+* simple to-do style interaction
+
+Goal:
+Combine **HTML + CSS + JavaScript** into working UI components.
+
+---
+
+## Key Takeaways
+
+This month clarified an important idea:
+
+JavaScript is not magic.
+
+It simply connects:
+
+**User action → logic → UI change**
+
+Once that flow becomes clear, building interactive interfaces becomes much easier.
