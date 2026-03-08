@@ -15,4 +15,4 @@ Logic: JavaScript (ES6+, DOM Manipulation, Async/API fetching)
 
 Workflow: Version Control (Git/GitHub), Responsive Design, and Developer Tools
 
-Upcoming: I plan to integrate [Insert Framework, e.g., React] as my core logic becomes second nature.
+Upcoming: I plan to integrate other frameworks as my core logic becomes second nature.
