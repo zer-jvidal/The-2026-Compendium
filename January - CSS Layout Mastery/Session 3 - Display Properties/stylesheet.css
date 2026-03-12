@@ -1,0 +1,29 @@
+body {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 70px;
+}
+
+div {
+    background-color: gold;
+    margin-bottom: 20px;
+    
+    padding: 20px;
+}
+
+span {
+    background-color: blue;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+}
+
+p {
+    background-color: green;
+ 
+    padding: 20px;
+}
