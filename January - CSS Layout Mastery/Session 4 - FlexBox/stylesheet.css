@@ -1,0 +1,44 @@
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    font-size: 35px;
+}
+
+#set {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: black;
+}
+
+#panset {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #ffd300;
+    text-align: center; /* One way of centering */
+    line-height: 200px; /* Another way of centering */
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: #000080;
+    display: flex; /* One way of centering using Flexbox */
+    justify-content: center;
+    align-items: center;
+}
+
