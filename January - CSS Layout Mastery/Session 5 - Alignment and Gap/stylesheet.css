@@ -1,0 +1,30 @@
+body {
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 24px;
+}
+
+#cards {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.card {
+    height: 400px;
+    width: 300px;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 12px solid black;
+    border-radius: 30px;
+}
+
+p {
+    padding-bottom: 40px;
+}
