@@ -1,0 +1,32 @@
+html, body {
+  text-align: center; 
+  
+}
+
+.container {
+  max-width: 375px; /* typical mobile width */
+  margin: 0 auto;
+  border: 4px black solid;
+  border-radius: 10px;
+  background-color: gold;
+}
+
+img {
+    width: 150px;
+    height: 200px;
+}
+
+button {
+    margin-bottom: 20px;
+    background: orange;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+button:hover {
+    background: red;
+}
