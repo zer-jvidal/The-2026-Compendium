@@ -1,0 +1,54 @@
+body {
+    background-color: #828282;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cover-photo {
+    width: 80%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: clamp(3rem, 3.5vw, 4rem);
+}
+
+h2 {
+    font-size: clamp(2rem, 2.5vw, 3rem);
+    margin-bottom: clamp(1rem, 2vw, 2rem);
+}
+
+.king-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.zero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#lelouch {
+    width: clamp(120px, 25vw, 250px);
+    height: auto;
+    border: 2px solid black;
+    border-radius: 200px;
+}
+
+#zero {
+    width: clamp(120px, 25vw, 250px);
+    height: auto;
+    border: 2px solid black;
+    border-radius: 200px;
+}
+
+p {
+    font-size: clamp(.75rem, 1.5vw, 1rem);
+    border: 2px solid gold;
+    padding: 1rem;
+}
